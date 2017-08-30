@@ -19,7 +19,7 @@ function inc(n) {
   return n
 }
 
-function inc(n) {
+function dec(n) {
   n--
   return n
 }
