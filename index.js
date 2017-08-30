@@ -21,6 +21,5 @@ function inc(n) {
 
 function inc(n) {
   n--
-return n
+  return n
 }
-
